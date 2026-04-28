@@ -1,14 +1,3 @@
-# Python cache
-__pycache__/
-*.py[cod]
-
-# PyInstaller outputs
-build/
-dist/
-*.toc
-*.pyz
-*.exe
-
 # Logs and local env
 *.log
 .env
