@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller outputs
+build/
+dist/
+*.toc
+*.pyz
+*.exe
+
+# Logs and local env
+*.log
+.env
+.env.*
+
+# Expo / React Native
+mobile-recetas/node_modules/
+mobile-recetas/.expo/
+mobile-recetas/android/.gradle/
+mobile-recetas/android/build/
+mobile-recetas/android/app/build/
+mobile-recetas/android/local.properties
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

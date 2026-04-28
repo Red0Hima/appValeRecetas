@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Recetas Flash",
+    "slug": "mobile-recetas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "android": {
+      "package": "com.vabloom.mobilerecetas",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFF7ED"
+      }
+    }
+  }
+}
